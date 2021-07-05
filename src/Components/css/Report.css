@@ -1,0 +1,25 @@
+.container__report{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.content__report__hoja{
+    padding: 40px;
+    border: 1px solid rgb(73, 73, 73);
+}
+
+.content__chart{
+    display: flex;
+    width: 400px;
+    height: 200px;
+}
+.report__content{
+    width: 100%;
+}
+.report__chart{
+
+}
+
